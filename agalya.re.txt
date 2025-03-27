@@ -1,0 +1,11 @@
+personal details
+
+Name:P.Agalya
+Date of birth:15.05.2006
+gender:female
+
+Education
+
+Department:BCA
+Univercity:Bharathidhasan univercity
+
